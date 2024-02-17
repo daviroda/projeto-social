@@ -24,6 +24,10 @@ main {
     position: relative;
 }
 
+::-webkit-scrollbar {
+    width: 0px;
+}
+
 section#telefone {
     position: absolute;
     top: 50%;
